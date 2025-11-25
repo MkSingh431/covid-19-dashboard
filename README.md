@@ -15,7 +15,7 @@ Python for data Analyses
 
 1. Install the Power Bi application and import the Dashboard-1.pbix into Power BI.
 2. Run the Covid-19 Analysis.ipynb notebook and get the processed dataset(CoronaVirus PowerBI Raw).
-3. To get upto date dataset go to https://github.com/CSSEGISandData/COVID-19. This is the data repository for the 2019 Novel Coronavirus Visual Dashboard operated by the Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE)
+3. To get upto date dataset go to https://github.com/MkSingh431/covid-19-dashboard This is the data repository for the 2019 Novel Coronavirus Visual Dashboard operated by the Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE)
 
 ## Dashboard Features
 
